@@ -1,0 +1,32 @@
+[
+  {
+    "id": "_001",
+    "src": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2.2&w=160&h=160&q=80",
+    "name": "Vera Carpenter",
+    "role": "Admin",
+    "createdAt": "Jan 21, 2020",
+    "status": "active",
+    "phone": "01710322487",
+    "email": "carpenter@gmail.com"
+  },
+  {
+    "id": "_002",
+    "src": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2.2&w=160&h=160&q=80",
+    "name": "Blake Bowman",
+    "role": "Author",
+    "createdAt": "Jan 23, 2020",
+    "status": "active",
+    "phone": "01710322488",
+    "email": "bowman@gmail.com"
+  },
+  {
+    "id": "_003",
+    "src": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2.2&w=160&h=160&q=80",
+    "name": "Blake",
+    "role": "Editor",
+    "createdAt": "Jan 25, 2020",
+    "status": "active",
+    "phone": "01710322489",
+    "email": "blake@gmail.com"
+  }
+]
