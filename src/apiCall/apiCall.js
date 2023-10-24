@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const BASE_URL = "https://repliq/";
+const BASE_URL = "https://bash/";
 const token = "token"; // Replace with  token
 // Set headers
 const config = {
